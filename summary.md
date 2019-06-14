@@ -5,6 +5,10 @@
 In this series, IBM developer advocates [Niklas Heidloff](http://heidloff.net/) and [Harald Uebele](https://haralduebele.blog/) simplify the sometimes intimidating process of building a full-featured microservices application running in Kubernetes. Many aspects of modern application development are explained in easy-to-understand tutorials with hands-on examples.
 
 #### Project overview: [Description and Design Principles](http://heidloff.net/article/example-java-app-cloud-kubernetes)
+#### Video: [World Congress Berlin Talk](https://youtu.be/ZIizxsmkWJo?t=6714)
+#### [Hands-on workshop](https://github.com/nheidloff/cloud-native-starter/tree/master/workshop)
+
+
 
 ## Objectives
 
@@ -27,10 +31,6 @@ Learn how to put together a complete, secure back-end stack to run a web site th
 #####  Tutorial: [Developing resilient Microservices with Istio and MicroProfile](http://heidloff.net/article/resiliency-microservice-microprofile-java-istio)
 
 > Learn how to use MicroProfile Fallback annotations to allow your Java service to gracefully handle network errors.
-
-#####  Tutorial: [Using Quarkus to run Java Apps on Kubernetes](http://heidloff.net/article/quarkus-javaee-microprofile-kubernetes)
-
-> Experiment with RedHat's new lightweight GraalVM framework for your Java microservices.
 
 #####  Tutorial: [Managing Microservices Traffic with Istio](https://haralduebele.blog/2019/03/11/managing-microservices-traffic-with-istio/)
 
